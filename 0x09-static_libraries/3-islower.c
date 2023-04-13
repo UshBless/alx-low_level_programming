@@ -3,6 +3,11 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
+/**
+ * _islower - Prints all Alphabet
+ * @c: input
+ * Return: Zero
+ */
 
 int _islower(int c)
 {
